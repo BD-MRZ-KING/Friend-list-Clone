@@ -1,5 +1,4 @@
 # Friend-list-Clone
-# Green-LoveR.
 
 
 ## <b>Installation</b>
